@@ -1,0 +1,13 @@
+.build/
+dist/
+.DS_Store
+*.xcodeproj/
+.swiftpm/
+DerivedData/
+design-preview/
+output/
+.env
+.env.*
+*.local
+*.log
+*diagnostics*.json

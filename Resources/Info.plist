@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleExecutable</key><string>DeskControl</string>
+    <key>CFBundleIdentifier</key><string>local.liuda.desk-control</string>
+    <key>CFBundleName</key><string>Desk Control</string>
+    <key>CFBundleDisplayName</key><string>Desk Control</string>
+    <key>CFBundlePackageType</key><string>APPL</string>
+    <key>CFBundleIconFile</key><string>AppIcon.icns</string>
+    <key>CFBundleShortVersionString</key><string>1.2.1</string>
+    <key>CFBundleVersion</key><string>6</string>
+    <key>LSMinimumSystemVersion</key><string>13.0</string>
+    <key>NSHighResolutionCapable</key><true/>
+    <key>NSBluetoothAlwaysUsageDescription</key><string>通过蓝牙连接你的 LINAK 升降桌，读取高度并响应你的升降操作。</string>
+    <key>NSBluetoothPeripheralUsageDescription</key><string>通过蓝牙连接你的 LINAK 升降桌。</string>
+</dict>
+</plist>
